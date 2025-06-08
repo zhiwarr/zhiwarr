@@ -3,57 +3,66 @@
 I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** with a strong love for building beautiful, functional, and scalable digital experiences.
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=120&section=header&text=Hi%20I'm%20Zhiwar%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header" />
+</p>
 
-### 💻 Tech Stack
-
-- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, Vue.js, Nuxt.js  
-- **Backend:** PHP, Laravel  
-- **Mobile:** Flutter (cross-platform mobile development)  
-- **Database:** MySQL  
-- **Other Skills:** RESTful APIs, Authentication Systems, Multi-language & Multi-tenant Applications
-
----
-
-### 👀 I’m interested in:
-- Building real-world applications that solve real problems  
-- Clean code and best practices  
-- Learning and using new technologies  
-- Open source contributions
+<p align="center">
+  Full Stack Web Developer 💻 | Flutter Mobile Developer 📱 | Coding Enthusiast ❤️
+</p>
 
 ---
 
-### 🌱 I’m currently learning:
-- Advanced Flutter patterns & state management  
-- TypeScript & full SSR with Nuxt 3  
-- DevOps basics and Docker for deployment
+### 👨‍💻 About Me
+
+- 🧑‍💻 Full stack developer using **Laravel**, **Vue**, **Nuxt**, and **MySQL**
+- 📱 Cross-platform mobile apps with **Flutter**
+- 💡 I love solving real-world problems with clean, reusable code
+- 🔭 I’m currently diving deeper into **Nuxt 3**, **TypeScript**, and **DevOps**
+- 🤝 I’m looking to collaborate on meaningful Laravel/Vue/Flutter projects
 
 ---
 
-### 💞️ I’m looking to collaborate on:
-- Open source Laravel/Vue/Nuxt projects  
-- Flutter-based mobile apps  
-- SaaS systems, Admin Panels, and Multi-tenant apps
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,vue,nuxt,php,laravel,mysql,flutter,dart,git,github,vscode,postman" />
+</p>
 
 ---
 
-### 📫 How to reach me:
-- 📧 Email: `zhiwar.osman.dev@gmail.com`  
-- 🌐 LinkedIn: [linkedin.com/in/zhiwarr](https://www.linkedin.com/in/zhiwarr)  
-- 💬 Telegram: [t.me/zhiwarr](https://t.me/zhiwarr)
+### 🚀 Projects
+
+| 💼 Project | 📄 Description | 🧰 Stack |
+|-----------|----------------|----------|
+| **cleaning system** | A full-featured visit management loans lenders salaries managing employees etc. | Laravel, Vue 3, MySQL |
+| **Multi-Tenant E-commerce** | Multi-vendor system with subdomain tenant isolation | Laravel, Vue, Flutter |
+| **Clinic Appointment App** | Multi-language appointment booking platform | Laravel, Inertia.js, Tailwind |
 
 ---
 
-### 😄 Pronouns:
-He/Him
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhiwarr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhiwarr&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### ⚡ Fun fact:
-I code for fun — even on weekends! I believe that every problem has a clean solution… and I love finding it.
+### 🔗 Connect with Me
+
+- 📧 Email: [zhiwar.osman.dev@gmail.com](mailto:zhiwar.osman.dev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/zhiwarr](https://www.linkedin.com/in/zhiwarr)
+- 💬 Telegram: [@zhiwarr](https://t.me/zhiwarr)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### ⚡ Fun Fact
+
+> I write code for fun, and sometimes even dream in JavaScript.  
+> Every bug is a new adventure, every fix is a small celebration. 🥳
 
 ---
 
