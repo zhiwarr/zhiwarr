@@ -1,8 +1,3 @@
-### 👋 Hi, I'm @zhiwarr
-
-I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** with a strong love for building beautiful, functional, and scalable digital experiences.
-
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=120&section=header&text=Hi%20I'm%20Zhiwar%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
@@ -44,18 +39,24 @@ I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** with 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhiwarr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhiwarr&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhiwarr&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="Zhiwar's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zhiwarr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Zhiwar's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiwarr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-- 📧 Email: [zhiwar.osman.dev@gmail.com](mailto:zhiwar.osman.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/zhiwarr](https://www.linkedin.com/in/zhiwarr)
-- 💬 Telegram: [@zhiwarr](https://t.me/zhiwarr)
+- 📧 Email: [zhiwar04@gmail.com](mailto:zhiwar04@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/zhiwar](https://www.linkedin.com/in/zhiwar-osman-265660209)
+- 💬 Telegram: [@zhiwarr](https://t.me/zhiwar115)
 
 ---
 
